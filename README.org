@@ -4,6 +4,6 @@ Infrastructure for scripting in Common Lisp
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/ruricolist/kiln |
-| commit  | aab8567                                |
+| commit  | eb65457                                |
 | systems | kiln                                   |
 |---------+----------------------------------------|
